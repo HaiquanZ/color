@@ -11,7 +11,7 @@
 ### Bước 1: Chuẩn bị
 Cài đặt các thư viện trong file `setup.txt`  
 `pip install [tên thư viện]`  
-Tạo các folder data_raw, data_processwd, models
+Tạo các folder data_raw, data_processed, models
 ### Bước 2: Đưa tập dữ liệu ảnh vào folder data_raw
 ### Bước 3: Tiền xử lý dữ liệu
 Chạy file: ``python preprocess.py`` , đầu vào và các nhãn được lưu tại folder data_processed
